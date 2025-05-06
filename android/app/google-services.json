@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "817289222181",
+    "project_id": "peshooscanner",
+    "storage_bucket": "peshooscanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817289222181:android:9832f7e6e269c9d83f47cc",
+        "android_client_info": {
+          "package_name": "com.peshoo.scanner.peshoo_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817289222181-vqqpvogo69ojsvh98kla3ccq6oiuulkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BAf0bOKGF7dysohgkK7XeaaYkku5TtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817289222181-vqqpvogo69ojsvh98kla3ccq6oiuulkb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817289222181-71vimse05u3tklv9f18u0t6nbtufa080.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.peshoo.scanner.peshooScanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
