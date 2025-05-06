@@ -1,4 +1,6 @@
 // file_manager.dart
+// ignore_for_file: use_build_context_synchronously
+
 import 'dart:io';
 
 import 'package:excel/excel.dart' as excel;

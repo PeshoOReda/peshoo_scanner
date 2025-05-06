@@ -1,4 +1,6 @@
 // permission_helper.dart
+// ignore_for_file: use_build_context_synchronously
+
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 
